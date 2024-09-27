@@ -42,6 +42,7 @@ section#login > div#imagem {
     background: #5f2c82 url(../imagens/bolinhas.jpg.jpg) no-repeat;
     background-size: cover;
     height: 200px;
+    
 }
 section#login > div#formulario{
     display: block;
