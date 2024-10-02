@@ -49,11 +49,5 @@
     div#formulario > p {
         font-size: 1.2em;
     }
-    form > input[type=submit] {
-        width: 49%;
-    }
-
-    form > a.botao {
-        width: 49%;
-    }
+    
 }

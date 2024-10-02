@@ -56,7 +56,7 @@ div#formulario > h1 {
 div#formulario > p {
     font-size: 0.8em;
 }
-form > div.campo {
+form > div.campo{
     background-color: #5f2c82;
     display: block;
     width: 100%;
@@ -67,8 +67,10 @@ form > div.campo {
 div.campo > label{
     display: none;
 }
+div.campo > div.entrar{
+}
 
-form > input[type=submit] >  {
+form > input[type=submit]{
     display: block;
     font-size: 1em;
     width: 100%;
@@ -81,6 +83,7 @@ form > input[type=submit] >  {
 }
 form > input[type=submit]:hover{
     background-color: #2d5352;
+    
 }
 form > a.botao{
     display: block;
